@@ -1,5 +1,5 @@
-Welcome to my HackerRank 30 Days of Data Structures and Algorithms (DSA) Challenge repository! 🎯
-This repo contains all my daily coding solutions and learning progress as I work through 30 problems designed to strengthen my programming, logic-building, and problem-solving skills.
+🧠**Welcome to my HackerRank 30 Days of Data Structures and Algorithms (DSA) Challenge repository! **
+🎯This repo contains all my daily coding solutions and learning progress as I work through 30 problems designed to strengthen my programming, logic-building, and problem-solving skills.
 
 
 🎯 Purpose of This Repository
